@@ -85,5 +85,8 @@
         "id": "i@diygod.me"
       }
     }
+  },
+  "engines": {
+    "node": "18.12.0"
   }
 }
